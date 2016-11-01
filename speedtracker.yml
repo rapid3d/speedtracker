@@ -37,7 +37,7 @@
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-encryptionKey: "YOUR_ENCRYPTED_KEY"
+encryptionKey: "c812ecfb606e2bba199067bc8fe5514d90206029c58b88fd712add0a1f641ad391408d165ef6d8fe047b"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -50,7 +50,7 @@ encryptionKey: "YOUR_ENCRYPTED_KEY"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-wptKey: "YOUR_ENCRYPTED_WEBPAGETEST_KEY"
+wptKey: "d94eb6f8607961b513cd3ee9eca45f18812727799d87a7f6243d964c0e6b1ddc9534"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
